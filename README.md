@@ -1,0 +1,2 @@
+# -smek_2026_python_makine_ogrenmesi_dersi
+İsmek_2026_python_makine_ogrenmesi_dersi
